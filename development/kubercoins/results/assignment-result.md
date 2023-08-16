@@ -1,16 +1,17 @@
 # Nombre de la asignación
 
 Participantes
-- Nombre
+- Nombre Esau Carreo, Citlali Matz, Carlos Gaytan, Efrain Melgarejo, Yesenia Castellanos
 
 Actividades
-- Actividad
+- Actividad:Kubercoins
 
 Comandos
-- Comandos
+- Comandos: kubectl get svc webui
 
 Recursos externos
-- Recurso externo
+- Recurso externo: http://54.202.33.18:32473/index.html
 
 Artifactos
 - Anexar artifactos al directorio de respuesta
+- http://54.202.33.18:32473/index.html
